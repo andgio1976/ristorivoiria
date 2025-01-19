@@ -65,28 +65,15 @@
     }
   },
     {
-    "nome":"Dubai",
-    "descrizione":"Dubai è una città futuristica degli Emirati Arabi Uniti, famosa per il Burj Khalifa, il grattacielo più alto del mondo, e per l'innovativa Palm Jumeirah. Con un'architettura lussuosa, shopping esclusivo e attrazioni uniche, è una meta di lusso e modernità.",
-    "prezzo":1870.00,
-    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2023/05/cosa-vedere-dubai-1.jpg",
+    "nome":"Cracovia",
+    "descrizione":"Cracovia è una delle perle dell’est Europa, una città ricca di storia, che nonostante il suo passato travagliato ha saputo rialzarsi, mostrando con il suo patrimonio e la sua dinamicità ciò che la Polonia e i suoi abitanti hanno da offrire.",
+    "prezzo":1570.00,
+    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2022/11/cosa-vedere-cracovia.jpg",
     "dettaglio":{
-        "prezzo_volo":640.00,
+        "prezzo_volo":340.00,
         "tasse":200.00,
         "hotel":1030.00,
-        "nome_hotel":"Hotel DUBAI",
-        "volo":"Ryanair"
-    }
-  },
-    {
-    "nome":"Dubai",
-    "descrizione":"Dubai è una città futuristica degli Emirati Arabi Uniti, famosa per il Burj Khalifa, il grattacielo più alto del mondo, e per l'innovativa Palm Jumeirah. Con un'architettura lussuosa, shopping esclusivo e attrazioni uniche, è una meta di lusso e modernità.",
-    "prezzo":1870.00,
-    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2023/05/cosa-vedere-dubai-1.jpg",
-    "dettaglio":{
-        "prezzo_volo":640.00,
-        "tasse":200.00,
-        "hotel":1030.00,
-        "nome_hotel":"Hotel DUBAI",
+        "nome_hotel":"Hotel CRACOVIA",
         "volo":"Ryanair"
     }
   }
