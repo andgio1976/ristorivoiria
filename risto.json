@@ -39,28 +39,28 @@
     }
   },
     {
-    "nome":"Dubai",
-    "descrizione":"Dubai è una città futuristica degli Emirati Arabi Uniti, famosa per il Burj Khalifa, il grattacielo più alto del mondo, e per l'innovativa Palm Jumeirah. Con un'architettura lussuosa, shopping esclusivo e attrazioni uniche, è una meta di lusso e modernità.",
-    "prezzo":1870.00,
-    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2023/05/cosa-vedere-dubai-1.jpg",
+    "nome":"Miami",
+    "descrizione":"Miami e Miami Beach sono un concentrato di spiagge mozzafiato, quartieri ricchi di personalità e attrazioni che vale la pena scoprire.",
+    "prezzo":1970.00,
+    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2022/11/cosa-vedere-miami.jpg",
     "dettaglio":{
         "prezzo_volo":640.00,
         "tasse":200.00,
-        "hotel":1030.00,
+        "hotel":1130.00,
         "nome_hotel":"Hotel DUBAI",
-        "volo":"Ryanair"
+        "volo":"Emirates"
     }
   },
     {
-    "nome":"Dubai",
-    "descrizione":"Dubai è una città futuristica degli Emirati Arabi Uniti, famosa per il Burj Khalifa, il grattacielo più alto del mondo, e per l'innovativa Palm Jumeirah. Con un'architettura lussuosa, shopping esclusivo e attrazioni uniche, è una meta di lusso e modernità.",
-    "prezzo":1870.00,
-    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2023/05/cosa-vedere-dubai-1.jpg",
+    "nome":"Sri Lanka",
+    "descrizione":"Lo Sri Lanka si trova al largo della costa sud-orientale dell’India, garantendo a tutti i suoi visitatori un patrimonio culturale e architettonico di grande fascino, spiagge soleggiate, un clima tipicamente tropicale e tante cose da fare e vedere in ogni momento dell’anno.",
+    "prezzo":1770.00,
+    "foto":"https://www.frontierassicurazioni.it/wp-content/uploads/2025/01/cosa-vedere-sri-lanka.jpg",
     "dettaglio":{
-        "prezzo_volo":640.00,
+        "prezzo_volo":540.00,
         "tasse":200.00,
         "hotel":1030.00,
-        "nome_hotel":"Hotel DUBAI",
+        "nome_hotel":"Hotel Sri Lanka",
         "volo":"Ryanair"
     }
   },
